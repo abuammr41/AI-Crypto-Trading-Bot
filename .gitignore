@@ -1,0 +1,14 @@
+# Kabhi bhi commit/upload mat karna — API keys hain
+.env
+
+# State aur log files — personal data hain, code ke sath share nahi karne
+position_state.json
+trade_log.csv
+bot.lock
+PAUSE.txt
+
+# Python cache files
+__pycache__/
+*.pyc
+watchlist_log.csv
+priority_cache.json
